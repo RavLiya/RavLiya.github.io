@@ -5,8 +5,11 @@ Graduate and a hard-working individual with a passion to go for higher achieveme
 
 ## Contact Information
 Email: raveenlng@gmail.com
+
 LinkedIn: linkedin.com/in/raveen-liyanage
+
 Phone: +94768804970
+
 Address: Moragoda, Talawa, Anuradhapura, Sri Lanka
 
 ## Educational Qualifications
