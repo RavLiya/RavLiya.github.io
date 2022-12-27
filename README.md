@@ -41,4 +41,20 @@ GCE A/L Examination - Physical Science
 * Completed project using Coppeliasim robot simulation software and LUA programming. Objects detection and speed variation of autonomous vehicles were modeled with the concept of swarm robotics.
 * Algorithm was implemented on Pololu Zumo robots.
 
+## Certificates
+* Machine Learning by University of Stanford| Online (2021)
+* Introduction to cloud computing by Edx (2022)
+* IoT Foundation: Fundamentals by LinkedIn Learning (2022)
+* Python Data Structures by University of Michigan (2020)
+* Programming for Everybody (Getting Started with Python) by University of Michigan (2020)
+* OpenCV for Python Developers by LinkedIn Learning (2022)
+* NDG Linux Unhatched by Cisco Networking Academy (2022)
+* PLC program flow and control instructions by LinkedIn Learning (2022)
+* Meet the UiPath Platform by UiPath academy (2022)
+* Lean six sigma yellow belt certificate by VMEdu. Inc. (2022)
+* E-mprovise certificate course in Arduino (2021)
+* AERO TECH online workshop on RC Drones (2021)
+* AERO TECH online workshop on RC Planes (2021)
+* Human-centered Robotics Prosthesis workshop (2018)
+
 
