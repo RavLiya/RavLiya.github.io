@@ -57,4 +57,28 @@ GCE A/L Examination - Physical Science
 * AERO TECH online workshop on RC Planes (2021)
 * Human-centered Robotics Prosthesis workshop (2018)
 
+## Projects
+### Implementing Braintenberg algorithm with Python (2022)
+* The algorithm was implemented on a robot for obstacle avoidance and maze solving.
+* Simulation was done on Coppeliasim and the Python API was run on Jupyter Notebook.
 
+### Object identification and separation robot (2022)
+* The robot travels randomly through the environment and identifies waste and plants and delivers them to their respective bins.
+* Programmed using Python and simulated using Coppeliasim.
+
+### Maze solver using Python (2022)
+* A robot was programmed using python for maze solving using its sensor readings.
+* Proximity sensors were used for sensing.
+
+### Line follower with Python (2022)
+* Two-wheeled robot was programmed to follow a line using an array of three line sensors.
+* The robot has the ability to find the end of the line by deciding which direction to turn at junctions.
+
+### Occupancy grid map development with SLAM (2022)
+* Mapping each object by traveling through the environment and scanning using the SLAM toolkit in MATLAB.
+* The robot was equipped with ray-type proximity sensors for obstacle detection and a LiDAR sensor for environment scanning.
+
+### Mechatronics module project (2020 - 2021)
+* Automation of workflow process using conveyor belts.
+* The conveyor belt was designed using SOLIDWORKS.
+* Program the conveyor belt process using Arduino and demonstrate of the program.
