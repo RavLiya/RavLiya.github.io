@@ -29,3 +29,6 @@ Linux
 Simulation Software (MSC ADAMS, Ansys, CoppeliaSim)
 
 MS Office
+
+## Experiance
+
